@@ -17,4 +17,5 @@ namespace WindowsFormsApp1
             InitializeComponent();
         }
     }
+    string txtuser = "admin";
 }
