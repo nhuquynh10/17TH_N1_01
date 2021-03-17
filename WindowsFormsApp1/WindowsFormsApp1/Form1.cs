@@ -12,13 +12,11 @@ namespace WindowsFormsApp1
 {
     public partial class Form1 : Form
     {
-        public Form1()
-        {
-            InitializeComponent();
-        }
+        ai dau tro lai mua thu truoc 
+        
+        f
+        nhat lay cho toi nhung la vang
     }
-    string txtuser = "admin";
-    Thu đi để lại lá vàng 
-    mời đối tiếp
+   
     
 }
