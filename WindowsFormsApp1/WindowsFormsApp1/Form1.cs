@@ -18,4 +18,7 @@ namespace WindowsFormsApp1
         }
     }
     string txtuser = "admin";
+    Thu đi để lại lá vàng 
+    mời đối tiếp
+    
 }
