@@ -12,6 +12,9 @@ namespace WindowsFormsApp1
 {
     public partial class Form1 : Form
     {
+        public int tonghaiso(int a, int b){
+        return a + b;
+        }
         public Form1()
         {
             InitializeComponent();
@@ -19,13 +22,12 @@ namespace WindowsFormsApp1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if (txtUserName.Text == "admin")
-            {
-                MessageBox.Show("Login successful");
-            }
-            else {
-                MessageBox.Show("Login fail");
-            }
+            ///if (txtUserName.Text == "admin")
+            //{
+              //  MessageBox.Show("Login successful");
+            //}
+                MessageBox.Show("Login fail v1");
         }
+        
     }
 }
